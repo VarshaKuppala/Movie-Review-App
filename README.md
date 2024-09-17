@@ -1,4 +1,3 @@
-# Movie-Review-App
 # MovieAPI
 
 REST API powered by Spring Boot and Fron End by React
